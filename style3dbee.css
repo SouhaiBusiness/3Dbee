@@ -11,7 +11,7 @@ body {
     font-family: 'Poppins', sans-serif;
     font-size: 14px;
     background-image:
-    url(bg.png),
+    url(bg1.png);
     repeating-linear-gradient(
         to right, transparent 0 500px, #73814B33 500px 501px
     );
